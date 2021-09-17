@@ -16,9 +16,9 @@ pip install colorlog
 python -m pip install Pillow==6.2
 cd ../../..
 
-# gdown --id 1-U38UAigrcEgzKEZZgjtF-kHnbZfEYbv
-# unzip checkpoints.zip
-# rm -f checkpoints.zip
+gdown --id 1-U38UAigrcEgzKEZZgjtF-kHnbZfEYbv
+unzip checkpoints.zip
+rm -f checkpoints.zip
 
 pip install pyspellchecker
 pip install ngram==3.3.2
